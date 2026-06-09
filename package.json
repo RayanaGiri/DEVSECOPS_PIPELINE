@@ -9,7 +9,7 @@
     "test": "echo 'Running tests' && exit 0"
   },
   "keywords": ["devsecops", "node", "ci-cd"],
-  "author": "Suryansh Mathema",
+  "author": "Rayana Giri",
   "license": "MIT",
   "dependencies": {
     "express": "4.17.0",
